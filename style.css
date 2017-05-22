@@ -1,0 +1,31 @@
+html {
+  width: 1000;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 1000px;
+  box-sizing: border-box;
+}
+
+.section {
+  height: 150px;
+}
+
+.item-0 {
+  background-color: #3498db;
+}
+
+.item-1 {
+  background-color: #e67e22;
+}
+
+.item-2 {
+  background-color: #1abc9c;
+}
+
+p {
+  padding-top: 68px;
+  text-align: center;
+}
